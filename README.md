@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # DIO | Resumos Git e Github
 
@@ -17,3 +18,6 @@
 - [Digital inovation one](https://www.dio.me/) 
 
 
+=======
+## Desafio de código da DIO sobre git/github
+>>>>>>> b9f5d16c22b4b63aea60d10a0c8403e5af48e099
