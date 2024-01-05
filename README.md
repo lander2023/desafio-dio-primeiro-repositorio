@@ -8,7 +8,7 @@
 - [Documentação GIT](https://git-scm.com/doc) para auxilio dos comandos para trabalhar com o Git.
 - [Documentação Markdown](https://www.markdownguide.org/basic-syntax/) para facilitar na hora de escrever e elaborar textos no repositório.
 
-<center> ## 🖥 ***Resumos das aulas*** </center>
+<center> ## 🖥 *** Resumos das aulas *** </center>
 
 #### 1. Para criar um diretório use o comando mkdir + nome do arquivo
 
